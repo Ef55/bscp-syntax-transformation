@@ -17,7 +17,7 @@ import silex._
   * - Empty:    <tag />
   * 
   * This example extends the previous one (FirstFirst)
-  * by allowing tags to be defined other tag pairs
+  * by allowing tags to be defined inside other tag pairs
   * (e.g. `<outer> <inner /> </outer>`)
   * which introduce First/Follow conflicts.
   */
